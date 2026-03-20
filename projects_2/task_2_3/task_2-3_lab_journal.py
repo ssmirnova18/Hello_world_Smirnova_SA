@@ -17,7 +17,7 @@ line1 = f"| ФИО исследователя : {researcher_name:<33}|"
 line2 = f"| Дата              : {experiment_date:<33}|"
 line3 = f"| Эксперимент       : {experiment_name:<33}|"
 
-# Блок вывода (разбиваем длинный текст вручную)
+# Блок вывода
 conclusion_title = f"| {'Вывод:':<58}|"
 conclusion_text = f"| {conclusion:<58}|"
 
